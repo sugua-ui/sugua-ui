@@ -14,7 +14,6 @@ At the start of my journey in **Cybersecurity**, **Software Engineering** and **
 
 ## Start Here
 
-- 🔎 [knowledge-base](https://github.com/sugua-ui/knowledge-base) - log of all the resources I found helpful and notes I've taken to learn over time
 - 📈 [algothon-2026](https://github.com/sugua-ui/algothon-2026) - quantitative strategy research and backtesting for the Algothon 2026 Competition
 
 ## Interests
