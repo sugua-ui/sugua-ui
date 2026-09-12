@@ -2,10 +2,11 @@
 
 📍 Sydney, Australia | 🛡️ Cybersecurity Cadet | 🎓 Advanced Computing 
 
-At the start of my journey and interested in **Cybersecurity**, **Software Engineering**, **AI** and building practical security tooling.
+At the start of my journey in **Cybersecurity**, **Software Engineering** and **AI**.
 
 ## Learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
