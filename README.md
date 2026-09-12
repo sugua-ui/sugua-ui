@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Angus 👋
 
-<!--
-**sugua-ui/sugua-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Sydney, Australia | 🛡️ Cybersecurity Cadet | 🎓 Advanced Computing 
 
-Here are some ideas to get you started:
+At the start of my journey and interested in **Cybersecurity**, **Software Engineering**, **AI** and building practical security tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Start Here
+
+- 🔎 knowledge-base - log of all the resources I found helpful and notes I've taken to learn over time
+- 📈 algothon - quantitative strategy research and backtesting for the Algothon 2026 Competition
+
+## Interests
+- 🛡️ Cybersecurity & Security Engineering
+- ⚙️ DevSecOps & Security Automation
+- 🤖 Artificial Intelligence & Agentic Systems
+- 💻 Software Engineering
+- 🐧 Linux & Systems
+- 📷 Photography & Cinematography
+
+## Contact Me!
+- [LinkedIn](https://www.linkedin.com/in/angus-leslie-b379b0297/)
